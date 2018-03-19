@@ -13,7 +13,7 @@ Spot Fleet works the same in EKS as it does in upstream Kubernetes- it's support
 
 k8s @ SAP - multi cluster (v1)
 
-Skipper - github.com/concur/skipper
+[Skipper](https://www.github.com/concur/skipper) -
 k8s Deployment API
 
 Can you attach IAM roles/policies at the container level similar to how ECS works?
