@@ -41,3 +41,12 @@ Tigera partnership - stage separation, tenant separation, fine-grained firewalls
 EKS GA - Cluster-wide Cloudwatch metrics and Cloudtrail logs
 For node groups - EKS roadmap
 Application container metrics/logs - customer configured
+
+## Slides
+
+![access-auth](./assets/access-auth.png)
+![networking](./assets/networking.png)
+![dns-services-elb](./assets/dns-services-elb.png)
+![monitoring-logging](./assets/monitoring-logging.png)
+![cluster-management](./assets/cluster-management.png)
+![roadmap](./assets/roadmap.png)
